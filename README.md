@@ -1,4 +1,4 @@
-# About
+# Abo
 <h1 align="center">Hi 👋, I'm Parthiban A</h1>
 <h3 align="center">A passionate Java Full Stack Developer</h3>
 
